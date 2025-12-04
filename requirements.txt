@@ -1,0 +1,5 @@
+selenium==4.38.0
+pandas==2.2.3
+beautifulsoup4==4.12.3
+webdriver-manager==4.0.2
+apache-airflow==2.10.3  # установите позже, если не будете сразу

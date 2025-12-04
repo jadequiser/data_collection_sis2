@@ -241,7 +241,7 @@ sqlite3 data/output.db "SELECT * FROM listings LIMIT 5;"
 
 ## Project Members
 
-- **Owner**: ganiya nursaliyeva, symbat bayanbayeva
+- **Owners**: ganiya nursaliyeva, symbat bayanbayeva
 - **Project**: Airbnb Data Collection Pipeline
 
 ---
